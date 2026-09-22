@@ -1,9 +1,9 @@
 # 🤖 AI Software Engineer Assistant
 
 > **College Project | Final Year / Mini Project Submission**
-> **Institute:** [Your College Name Here]
-> **Department:** Computer Engineering / Information Technology
-> **Academic Year:** 2025–2026
+> **Institute:** [Arts,commeres & science college, Arvi]
+> **Department:** Masters of Science / Computer Science
+> **Academic Year:** 2026–2027
 
 ---
 
@@ -266,9 +266,9 @@ When a user pastes a GitHub URL like `https://github.com/facebook/react`:
 
 ## 📝 License
 
-This project is submitted for academic purposes at [Your College Name].
+This project is submitted for academic purposes at [Arts,commeres & Science college, Arvi].
 All AI API usage is for educational and non-commercial use only.
 
 ---
 
-*Made with ❤️ by [Your Team Name] | [Your College] | 2025–2026*
+*Made with ❤️ by [Janhavi Bhalchandra Bodakhe] | [Arts,commers & Science college, Arvi] | 2026–2027*
